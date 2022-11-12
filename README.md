@@ -2,7 +2,7 @@
 <br><br>
 <h2>About Me:</h2>
 <ul>
-  <li>👩‍🎓 Undergraduate Student @ Dept. of Information and Comunication Systems Engineering (UoA)</li>
+  <li>👩‍🎓 Undergraduate Student @ Dept. of Information and Communication Systems Engineering (UoA)</li>
   <li>🌱Currently learning PenTesting </li>
 </ul>
 <br>
